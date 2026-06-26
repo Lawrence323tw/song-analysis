@@ -1,2 +1,2 @@
-# song-analysis-assets
+# song-analysis
 song-analysis
